@@ -553,7 +553,7 @@ body {
 }
 
 .card__side--back-6 {
-    background-image: linear-gradient(to right bottom, #838383, #2e2e2e);
+    background-image: linear-gradient(to right bottom, #838383, #199ed3);
 }
 
 .card:hover .card__side--front {
@@ -575,7 +575,7 @@ body {
 }
 
 .card__picture--1 {
-    background-image: linear-gradient( to right bottom, #eca026, rgba(185, 19, 19, 0.911)), url(../img/gears.png);
+    background-image: linear-gradient( to right bottom, #26d1ec, rgba(19, 185, 160, 0.911)), url(../img/minimum.png);
 }
 
 .card__picture--2 {
@@ -583,7 +583,7 @@ body {
 }
 
 .card__picture--3 {
-    background-image: linear-gradient(to right bottom, #44b2e6, #05044d), url(../img/chatbg.png);
+    background-image: linear-gradient(to right bottom, #44b2e6, #05044d), url(../img/udagram.jpg);
 }
 
 .card__picture--4 {
@@ -595,7 +595,7 @@ body {
 }
 
 .card__picture--6 {
-    background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/office-hall.jpg);
+    background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/chatter.jpg);
 }
 
 .card__heading {
@@ -619,7 +619,7 @@ body {
 }
 
 .card__heading-span--1 {
-    background-image: linear-gradient( to right bottom, rgba(236, 160, 38, 0.9), rgba(185, 19, 19, 0.9));
+    background-image: linear-gradient( to right bottom, rgba(38, 236, 157, 0.9), rgba(19, 182, 185, 0.9));
 }
 
 .card__heading-span--2 {
